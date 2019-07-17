@@ -2,5 +2,7 @@
 	<head>Welcome to git</head>
 	<body>
 		<h1> first message for commit </h1>
+
+		<h3> second message for commint </h3>
 	</body>
 </html>
